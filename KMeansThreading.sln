@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KMeansThreading", "KMeansThreading\KMeansThreading.vcxproj", "{0870034E-A6A6-47C8-B3B1-F28CA23B1074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0870034E-A6A6-47C8-B3B1-F28CA23B1074}.Debug|x64.ActiveCfg = Debug|x64
+		{0870034E-A6A6-47C8-B3B1-F28CA23B1074}.Debug|x64.Build.0 = Debug|x64
+		{0870034E-A6A6-47C8-B3B1-F28CA23B1074}.Debug|x86.ActiveCfg = Debug|Win32
+		{0870034E-A6A6-47C8-B3B1-F28CA23B1074}.Debug|x86.Build.0 = Debug|Win32
+		{0870034E-A6A6-47C8-B3B1-F28CA23B1074}.Release|x64.ActiveCfg = Release|x64
+		{0870034E-A6A6-47C8-B3B1-F28CA23B1074}.Release|x64.Build.0 = Release|x64
+		{0870034E-A6A6-47C8-B3B1-F28CA23B1074}.Release|x86.ActiveCfg = Release|Win32
+		{0870034E-A6A6-47C8-B3B1-F28CA23B1074}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C3047B2-C882-4C28-A68C-52AD91522F9A}
+	EndGlobalSection
+EndGlobal
